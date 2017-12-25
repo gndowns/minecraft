@@ -7,5 +7,5 @@
   - Micdoodle Core
 - [Minecraft Flight Simulator](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2597098-minecraft-flight-simulator-modding-resumed-source)
 
-All run under a `Forge 1.10.2` profile, with a separate game directory `~/.minecraft_Forge_1.10.2`
-All mods should be kept in `~/.minecraft_Forge_1.10.2/mods/`
+All run under a `Forge 1.10.2` profile, with a separate game directory `~/.minecraft_forge_1.10.2`
+All mods should be kept in `~/.minecraft_forge_1.10.2/mods/`
