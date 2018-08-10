@@ -1,7 +1,8 @@
 ### Mods: 
 -- all version 1.12.2 --
 - Forge 
-  - [installation](https://minecraft.gamepedia.com/Mods/Installing_Forge_mods), [profiles](https://www.minecraftforum.net/forums/support/java-edition-support/525478-tut-ucs-launcher-multiple-modded-profiles-like).
+  - [installation](https://minecraft.gamepedia.com/Mods/Installing_Forge_mods)
+  - [using multiple profiles](https://www.minecraftforum.net/forums/support/java-edition-support/525478-tut-ucs-launcher-multiple-modded-profiles-like) (optional)
 - [Galacticraft](https://micdoodle8.com/mods/galacticraft)
   - Galacticraft Core
   - Galacticraft Planets
