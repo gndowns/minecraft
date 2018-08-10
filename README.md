@@ -8,6 +8,7 @@
   - Galacticraft Planets
   - Micdoodle Core
 - [Minecraft Flight Simulator](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2597098-minecraft-flight-simulator-modding-resumed-source)
+  - Download "Transport Simulator" for 1.12.2, NOT the "Official Pack"
 
 All run under a `forge_1.12.2` profile, with a separate game directory `~/.minecraft_forge_1.12.2`
 All mods should be kept in `~/.minecraft_forge_1.12.2/mods/`
