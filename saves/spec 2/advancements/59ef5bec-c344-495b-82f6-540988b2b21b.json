@@ -314,6 +314,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2018-08-08 21:48:01 -0400",
+      "cooked_mutton": "2018-08-10 21:21:33 -0400",
       "cooked_beef": "2018-08-07 16:23:42 -0400",
       "apple": "2018-08-06 11:51:52 -0400"
     },
@@ -439,6 +440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2018-08-10 21:55:37 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-08-08 00:42:52 -0400"
@@ -496,6 +503,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2018-08-07 15:25:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2018-08-10 23:56:57 -0400"
     },
     "done": true
   },
@@ -751,7 +764,8 @@
       "skeleton": "2018-08-08 13:58:56 -0400",
       "zombie": "2018-08-07 15:20:14 -0400",
       "witch": "2018-08-08 21:57:03 -0400",
-      "spider": "2018-08-06 11:50:01 -0400"
+      "spider": "2018-08-06 11:50:01 -0400",
+      "creeper": "2018-08-10 21:55:35 -0400"
     },
     "done": false
   },
@@ -884,6 +898,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-08-07 16:15:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2018-08-10 23:56:57 -0400"
     },
     "done": true
   },
